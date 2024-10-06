@@ -1,0 +1,6 @@
+﻿  13. Roman to Integer.cpp
+F:\programming\ucheba\C++\leetcode\13. Roman to Integer\13. Roman to Integer.cpp(19,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\ucheba\C++\leetcode\13. Roman to Integer\13. Roman to Integer.cpp(32,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  13. Roman to Integer.vcxproj -> F:\programming\ucheba\C++\leetcode\x64\Debug\13. Roman to Integer.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
