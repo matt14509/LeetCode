@@ -5,9 +5,8 @@
 using namespace std;
 int main()
 {
-	string string1 = "string";
-	string string2 = "";
-	string2 = string1.at(0);
-	cout << string2 << endl;
+	int int1 = 6;
+	cout << int1 % 3 << endl;
+
 }
 

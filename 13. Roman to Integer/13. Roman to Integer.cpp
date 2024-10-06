@@ -144,7 +144,7 @@ int main()
     s = "MCMXCIV";
 #endif // DEBUG
 
-   cout << "¬ведите римское число" << endl;
+   cout << "¬ведите римское число   " << endl;
     cin >> s;
 
 

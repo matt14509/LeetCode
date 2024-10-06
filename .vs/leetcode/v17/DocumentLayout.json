@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFFCA099-8F42-4AD6-9190-1E4226E2DB2D}|13. Roman to Integer\\13. Roman to Integer.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\13. Roman to Integer\\13. Roman to Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AFFCA099-8F42-4AD6-9190-1E4226E2DB2D}|13. Roman to Integer\\13. Roman to Integer.vcxproj|solutionrelative:13. Roman to Integer\\13. Roman to Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B698442-F74F-4C78-9125-960D7FF412D4}|20. Valid Parentheses\\20. Valid Parentheses.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B698442-F74F-4C78-9125-960D7FF412D4}|20. Valid Parentheses\\20. Valid Parentheses.vcxproj|solutionrelative:20. Valid Parentheses\\20. Valid Parentheses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD805337-9F82-4D16-B762-29DAD0007114}|leetcode2\\leetcode2.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\leetcode2\\leetcode2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "13. Roman to Integer.cpp",
-              "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\13. Roman to Integer\\13. Roman to Integer.cpp",
-              "RelativeDocumentMoniker": "13. Roman to Integer\\13. Roman to Integer.cpp",
-              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\13. Roman to Integer\\13. Roman to Integer.cpp",
-              "RelativeToolTip": "13. Roman to Integer\\13. Roman to Integer.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJIAAAAhAAAAAAAAAA==",
+              "Title": "20. Valid Parentheses.cpp",
+              "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp",
+              "RelativeDocumentMoniker": "20. Valid Parentheses\\20. Valid Parentheses.cpp",
+              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp",
+              "RelativeToolTip": "20. Valid Parentheses\\20. Valid Parentheses.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwD8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-05T17:35:41.339Z",
+              "WhenOpened": "2024-10-06T13:13:08.019Z",
               "EditorCaption": ""
             },
             {
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "leetcode2\\leetcode2.cpp",
               "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\leetcode2\\leetcode2.cpp",
               "RelativeToolTip": "leetcode2\\leetcode2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-05T16:50:53.304Z"
+              "WhenOpened": "2024-10-05T16:50:53.304Z",
+              "EditorCaption": ""
             }
           ]
         }

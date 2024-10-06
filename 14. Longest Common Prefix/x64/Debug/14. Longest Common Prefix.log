@@ -1,0 +1,6 @@
+﻿  14. Longest Common Prefix.cpp
+F:\programming\ucheba\C++\leetcode\14. Longest Common Prefix\14. Longest Common Prefix.cpp(12,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\ucheba\C++\leetcode\14. Longest Common Prefix\14. Longest Common Prefix.cpp(20,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  14. Longest Common Prefix.vcxproj -> F:\programming\ucheba\C++\leetcode\x64\Debug\14. Longest Common Prefix.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
