@@ -16,7 +16,9 @@ public:
             M             1000
                     7 всего */
         int integer = 0;
+
         int len = s.length();
+        s.push_back('Z');
         unordered_map<char, int> roman;
         roman['I'] = 1;
         roman['V'] = 5;
@@ -31,10 +33,7 @@ public:
         {
             int subi = i;
 
-            if (i + 1 >= len)
-            {
-                break;
-            }
+
 
 
 
@@ -51,14 +50,13 @@ public:
                     i += 1;
                     
                 }
-                if (subi == i)
+                
+                if (s.at(i + 1) == 'X')
                 {
-                    if (s.at(i + 1) == 'X')
-                    {
                         integer += 9;
                         i += 1;
-                    }
                 }
+               
             }
             if (s.at(i) == 'X' && (s.at(i + 1) == 'L' || s.at(i + 1) == 'C'))
             {
@@ -67,19 +65,34 @@ public:
                     integer += 40;
                     i += 1;
                 }
-                if (subi == i)
+                
+                
+                if (s.at(i + 1) == 'C')
                 {
-                    if (s.at(i + 1) == 'C')
-                    {
                         integer += 90;
                         i += 1;
-                    }
+                }
+                
+            }
+            if (s.at(i) == 'C' && (s.at(i + 1) == 'D' || s.at(i + 1) == 'M'))
+            {
+                if (s.at(i + 1) == 'D')
+                {
+                    integer += 400;
+                    i += 1;
+                }
+                if (s.at(i + 1) == 'M')
+                {
+                    integer += 900;
+                    i += 1;
                 }
             }
             if (subi == i)
             {
-                integer = roman[s.at(i)];
+                integer += roman[s.at(i)];
             }
+
+
 
 
         }
@@ -127,7 +140,7 @@ int main()
 {
     string s;
 #ifdef DEBUG
-    s = "XI";
+    s = "MCMXCIV";
 #endif // DEBUG
 
    /* cout << "" << endl;
