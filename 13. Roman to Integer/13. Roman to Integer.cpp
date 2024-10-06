@@ -138,18 +138,20 @@ public:
 };
 int main()
 {
+    setlocale(LC_ALL, "Ru");
     string s;
 #ifdef DEBUG
     s = "MCMXCIV";
 #endif // DEBUG
 
-   /* cout << "" << endl;
-    cin >> s;*/
+   cout << "Введите римское число" << endl;
+    cin >> s;
 
 
 
 
     Solution solution;
+    cout << "Ваше число в современных цифрах" << endl;
     cout << solution.romanToInt(s) << endl;
     
 }
