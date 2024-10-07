@@ -3,8 +3,23 @@
   "WorkspaceRootPath": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C17F2EC-E107-4B88-838C-6A9CA5CE1F9C}|28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C17F2EC-E107-4B88-838C-6A9CA5CE1F9C}|28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.vcxproj|solutionrelative:28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B698442-F74F-4C78-9125-960D7FF412D4}|20. Valid Parentheses\\20. Valid Parentheses.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B698442-F74F-4C78-9125-960D7FF412D4}|20. Valid Parentheses\\20. Valid Parentheses.vcxproj|solutionrelative:20. Valid Parentheses\\20. Valid Parentheses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B40BFFA-0300-45CB-B333-CD8BE643E131}|21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B40BFFA-0300-45CB-B333-CD8BE643E131}|21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.vcxproj|solutionrelative:21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB7C0F-4CF0-4011-AA0A-FF8AE5AABCAE}|26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBDB7C0F-4CF0-4011-AA0A-FF8AE5AABCAE}|26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.vcxproj|solutionrelative:26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD805337-9F82-4D16-B762-29DAD0007114}|leetcode2\\leetcode2.vcxproj|F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\leetcode2\\leetcode2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +45,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ViewState": "AgIAAL0BAAAAAAAAAADgv84BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T14:03:46.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "28. Find the Index of the First Occurrence in a String.cpp",
+              "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.cpp",
+              "RelativeDocumentMoniker": "28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.cpp",
+              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.cpp*",
+              "RelativeToolTip": "28. Find the Index of the First Occurrence in a String\\28. Find the Index of the First Occurrence in a String.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T13:32:09.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "26. Remove Duplicates from Sorted Array.cpp",
+              "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.cpp",
+              "RelativeDocumentMoniker": "26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.cpp",
+              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.cpp",
+              "RelativeToolTip": "26. Remove Duplicates from Sorted Array\\26. Remove Duplicates from Sorted Array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T12:57:37.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "21. Merge Two Sorted Lists.cpp",
+              "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.cpp",
+              "RelativeDocumentMoniker": "21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.cpp",
+              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.cpp",
+              "RelativeToolTip": "21. Merge Two Sorted Lists\\21. Merge Two Sorted Lists.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T15:40:57.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20. Valid Parentheses.cpp",
               "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp",
               "RelativeDocumentMoniker": "20. Valid Parentheses\\20. Valid Parentheses.cpp",
-              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp*",
-              "RelativeToolTip": "20. Valid Parentheses\\20. Valid Parentheses.cpp*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "ToolTip": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\20. Valid Parentheses\\20. Valid Parentheses.cpp",
+              "RelativeToolTip": "20. Valid Parentheses\\20. Valid Parentheses.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-06T13:13:08.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "leetcode2.cpp",
               "DocumentMoniker": "F:\\programming\\ucheba\\C\u002B\u002B\\leetcode\\leetcode2\\leetcode2.cpp",
               "RelativeDocumentMoniker": "leetcode2\\leetcode2.cpp",

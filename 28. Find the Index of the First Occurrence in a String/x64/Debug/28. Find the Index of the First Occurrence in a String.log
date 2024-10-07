@@ -1,0 +1,6 @@
+﻿  28. Find the Index of the First Occurrence in a String.cpp
+F:\programming\ucheba\C++\leetcode\28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.cpp(14,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\ucheba\C++\leetcode\28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.cpp(39,1): warning C4715: 'Solution::strStr': not all control paths return a value
+  28. Find the Index of the First Occurrence in a String.vcxproj -> F:\programming\ucheba\C++\leetcode\x64\Debug\28. Find the Index of the First Occurrence in a String.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
